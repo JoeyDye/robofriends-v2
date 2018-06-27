@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Gent';
+  src: url('Gent.ttf');
+}
+
+h1 {
+  font-family: 'Gent', sans-serif;
+  font-size: 4.5rem !important;
+  color: #00dfdf;
+}
